@@ -58,8 +58,7 @@
 
 .header{
 background: url(../img/header.jpg);
-	background-size: cover;
-/*height: 500px;*/
+height: 500px;
 background-position-y: -150px;
 margin-top: 50px;
 }
