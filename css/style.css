@@ -58,7 +58,8 @@
 
 .header{
 background: url(../img/header.jpg);
-height: 500px;
+	background-size: cover;
+/*height: 500px;*/
 background-position-y: -150px;
 margin-top: 50px;
 }
@@ -73,7 +74,9 @@ img{
 	margin-top: -200px;
 	
 }
-
+h2{
+	margin-top: 110px;
+}
 article.service-info {
   text-align: center;
   margin: 37.5px auto 0; 
