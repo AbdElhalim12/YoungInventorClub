@@ -99,7 +99,7 @@ article.service {
 article.service > div {
   margin: 18.75px;
   color: #818181;
-  border: 1px solid transparent; 
+ /* border: 1px solid transparent; */
 }
 
   article.service > div h3 {
@@ -109,15 +109,15 @@ article.service > div {
 article.service i {
   padding: 18.75px;
   margin: 18.75px;
-  transition: all .5s ease-in-out; 
+ /* transition: all .5s ease-in-out; */
 }
 
-  article.service i:hover {
-    border: 1px solid #009EE3;
+ article.service i:hover {
+  /*  border: 1px solid #009EE3; */
     border-bottom: 1;
     border-radius: 10%;
     color: #009EE3;
-    transform: rotateZ(360deg); 
+    /* transform: rotateZ(360deg); */
 }
 
 @media only screen and (max-width: 768px) {
